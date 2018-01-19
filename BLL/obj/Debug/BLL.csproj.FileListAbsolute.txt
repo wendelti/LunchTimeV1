@@ -1,0 +1,18 @@
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\BLL.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\BLL.pdb
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLL\obj\Debug\BLL.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLL\obj\Debug\BLL.pdb
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\DAL.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\DAL.pdb
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\_wendel\votacao\WebSite2\WebSite2\BLL\bin\Debug\BLL.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLL\bin\Debug\BLL.pdb
+C:\_wendel\votacao\WebSite2\WebSite2\BLL\bin\Debug\DAL.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLL\bin\Debug\DAL.pdb
+C:\_wendel\votacao\WebSite2\WebSite2\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\_wendel\votacao\WebSite2\WebSite2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\_wendel\votacao\WebSite2\WebSite2\BLL\obj\Debug\BLL.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLL\obj\Debug\BLL.pdb

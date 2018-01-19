@@ -1,0 +1,24 @@
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\obj\Debug\BLLTests2.csprojResolveAssemblyReference.cache
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\bin\Debug\BLLTests2.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\bin\Debug\BLLTests2.pdb
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\bin\Debug\BLL.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\bin\Debug\DAL.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\bin\Debug\BLL.pdb
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\bin\Debug\DAL.pdb
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\obj\Debug\BLLTests2.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\BLLTests2\obj\Debug\BLLTests2.pdb
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\bin\Debug\BLLTests2.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\bin\Debug\BLLTests2.pdb
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\bin\Debug\BLL.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\bin\Debug\DAL.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\bin\Debug\Newtonsoft.Json.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\bin\Debug\BLL.pdb
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\bin\Debug\DAL.pdb
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\bin\Debug\Newtonsoft.Json.xml
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\obj\Debug\BLLTests2.csprojResolveAssemblyReference.cache
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\obj\Debug\BLLTests2.dll
+C:\_wendel\votacao\WebSite2\WebSite2\BLLTests2\obj\Debug\BLLTests2.pdb

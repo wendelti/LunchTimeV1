@@ -1,0 +1,14 @@
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\DAL.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\DAL.pdb
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\DAL\obj\Debug\DAL.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\DAL\obj\Debug\DAL.pdb
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wendel\Documents\Visual Studio 2015\Projects\WebSite2\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\_wendel\votacao\WebSite2\WebSite2\DAL\bin\Debug\DAL.dll
+C:\_wendel\votacao\WebSite2\WebSite2\DAL\bin\Debug\DAL.pdb
+C:\_wendel\votacao\WebSite2\WebSite2\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\_wendel\votacao\WebSite2\WebSite2\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\_wendel\votacao\WebSite2\WebSite2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\_wendel\votacao\WebSite2\WebSite2\DAL\obj\Debug\DAL.dll
+C:\_wendel\votacao\WebSite2\WebSite2\DAL\obj\Debug\DAL.pdb
